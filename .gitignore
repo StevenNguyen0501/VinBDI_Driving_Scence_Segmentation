@@ -72,3 +72,7 @@ target/
 
 # Dataset
 */Dataset/**
+*/logs/city_small20210114T0842/**
+*/Mask_RCNN/ngrok*
+*/practices/ngrok*
+*.h5
