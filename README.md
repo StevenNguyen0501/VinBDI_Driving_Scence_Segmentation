@@ -13,7 +13,7 @@
 
     Store image datasets in <\*/small_datasets/train>, <\*/small_datasets/test>,  <\*/small_datasets/test> with annotations file in VGG format
 
-    File run Notebook file for training and inference in <\*/practices>
+    File run Notebook file for training and inference in <\*/practices/cityscapes>
 
 
 
